@@ -22,4 +22,11 @@ pre/gen_train_txt.py 生成训练txt,由[image_paths, label_paths, annotations]�
 
 train.py 使用hrnet作为backbone，fcn head作为道路分割头, centernet head作为交叉口检测头。
 
+## 模型推理
+
+infer.py 
+
+## 结果可视化
+
+test_vim.py
 
