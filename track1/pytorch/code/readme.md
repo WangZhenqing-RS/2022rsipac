@@ -30,3 +30,17 @@ infer.py
 
 test_vim.py
 
+
+
+## 预训练模型下载地址
+model_urls = {
+    'hrnetv2_w18' : "https://github.com/bubbliiiing/hrnet-pytorch/releases/download/v1.0/hrnetv2_w18_imagenet_pretrained.pth",
+    'hrnetv2_w32' : "https://github.com/bubbliiiing/hrnet-pytorch/releases/download/v1.0/hrnetv2_w32_imagenet_pretrained.pth",
+    'hrnetv2_w48' : "https://github.com/bubbliiiing/hrnet-pytorch/releases/download/v1.0/hrnetv2_w48_imagenet_pretrained.pth",
+}
+
+## 参考
+
+https://github.com/bubbliiiing/hrnet-pytorch
+https://github.com/bubbliiiing/centernet-pytorch
+
